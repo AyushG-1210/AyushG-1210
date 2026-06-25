@@ -1,54 +1,84 @@
-<!-- typing SVG banner -->
+<!-- HEADER BANNER WITH BLUR GRADIENT & FLANKING X-WINGS -->
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr align="center">
+    <td width="10%" valign="middle">
+      <img src="./assets/image.png" alt="X-Wing Left" width="60" />
+    </td>
+    <td width="80%" valign="middle">
+      <!-- Integrated your exact blur gradient setup with a Cyan stroke outline -->
+      <img src="https://capsule-render.vercel.app/api?type=blur&height=130&color=0B1F3F,000c1a&text=AYUSH%20GOUDA&strokeWidth=2&section=footer&reversal=true&fontAlign=50&stroke=00F0FF&fontSize=35&textBg=false&fontColor=00F0FF" width="100%" />
+    </td>
+    <td width="10%" valign="middle">
+      <img src="./assets/wing_w.png" alt="X-Wing Right" width="60" />
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<!-- CENTERED COMM-LINK TERMINAL -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ayush+%F0%9F%91%8B;SciML+·+Computational+Physics;" alt="Typing SVG" />
-  </a>
+  <a href="mailto:ayushgouda.005@gmail.com">⚡ INITIATE CONTACT</a>
+  &nbsp;&nbsp;&bull;&nbsp;&nbsp; 
+  <a href="https://linkedin.com">LINKEDIN PROFILE</a>
 </p>
 
 <br>
 
-<!-- mission control / identity -->
-<p align="center">
-  <b>Computer Science undergraduate specializing in embedding physical laws directly into deep learning architectures.</b><br>
-  Building performance-critical neural systems to solve multi-dimensional inverse problems and spatiotemporal graphs.
+<!-- SYSTEM OVERVIEW SECTION (ANIMATED CYLINDER) -->
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0B1F3F&text=%2F%2F%20SYSTEM%20OVERVIEW&fontAlignY=40&fontSize=16&height=50&animation=blinking&fontColor=00F0FF" width="100%" />
+<br><br>
+
+<p><strong>Computer Science Undergraduate @ RVITM</strong></p>
+<p>
+  Specializing in <b>Scientific Machine Learning (SciML)</b>, <b>Physics-Informed Neural Networks (PINNs)</b>, and high-fidelity signal processing. I design physics-constrained computational architectures for multiphysics modeling and inverse problem diagnostics.
 </p>
-
----
-
-### 🛠️ Core Engineering Stack
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,c,postgres,docker,pytorch,sklearn,linux,bash,git,vscode&perline=6" alt="My Skills" />
-  </a>
+<p>
+  Experienced in executing large-scale ML research pipelines and architecting event-driven MLOps infrastructure to automate the build-release lifecycle of deep learning models.
 </p>
 
 <br>
 
-<!-- real-time telemetry / metrics -->
-<p align="center">
-  <img width="80%" src="https://github-readme-stats.vercel.app/api?username=AyushG-1210&show_icons=true&theme=transparent&hide_border=true&count_private=true&custom_title=engine+telemetry&card_width=500&title_color=00F0FF&icon_color=00F0FF&text_color=ffffff" alt="GitHub Stats" />
-</p>
+<!-- LANGUAGE TELEMETRY SECTION (ANIMATED CYLINDER) -->
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0B1F3F&text=%2F%2F%20LANGUAGE%20TELEMETRY&fontAlignY=40&fontSize=16&height=50&animation=blinking&fontColor=00F0FF" width="100%" />
+<br><br>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=AyushG-1210&theme=transparent&hide_border=true&card_width=800&side_chars_color=00F0FF&stroke_color=00F0FF&ring_color=00F0FF&fire_color=00F0FF&curr_streak_color=ffffff" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AyushG-1210&layout=compact&bg_color=0B1F3F&title_color=00F0FF&text_color=ffffff&icon_color=00F0FF&hide_border=true&langs_count=10" alt="Language Distribution" />
 </p>
 
 <br>
 
----
+<!-- TECHNICAL MATRIX SECTION (ANIMATED CYLINDER) -->
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0B1F3F&text=%2F%2F%20TECHNICAL%20MATRIX&fontAlignY=40&fontSize=16&height=50&animation=blinking&fontColor=00F0FF" width="100%" />
+<br><br>
 
-### 🔬 Active Repositories & Artifacts
+<table border="0" cellpadding="10" cellspacing="0" width="100%">
+  <tr align="center">
+    <td width="33%" valign="top" style="border-right: 1px solid #0B1F3F;">
+      <img src="https://img.shields.io/badge/---%20ANALYTICS%20----0B1F3F?style=flat-square&textColor=00F0FF" alt="Analytics Header" /><br><br>
+      <img src="https://img.shields.io/badge/Python-0B1F3F?style=flat-square&logo=python&logoColor=00F0FF" alt="Python" />
+      <img src="https://img.shields.io/badge/SQL-0B1F3F?style=flat-square&logo=postgresql&logoColor=00F0FF" alt="SQL" />
+      <img src="https://img.shields.io/badge/Bash-0B1F3F?style=flat-square&logo=gnubash&logoColor=00F0FF" alt="Bash" />
+    </td>
+    <td width="33%" valign="top" style="border-right: 1px solid #0B1F3F;">
+      <img src="https://img.shields.io/badge/---%20ML%20%26%20SIMULATION%20----0B1F3F?style=flat-square&textColor=00F0FF" alt="ML Header" /><br><br>
+      <img src="https://img.shields.io/badge/PyTorch-0B1F3F?style=flat-square&logo=pytorch&logoColor=00F0FF" alt="PyTorch" />
+      <img src="https://img.shields.io/badge/NumPy-0B1F3F?style=flat-square&logo=numpy&logoColor=00F0FF" alt="NumPy" />
+      <img src="https://img.shields.io/badge/scikit--learn-0B1F3F?style=flat-square&logo=scikitlearn&logoColor=00F0FF" alt="scikit-learn" />
+    </td>
+    <td width="34%" valign="top">
+      <img src="https://img.shields.io/badge/---%20INFRASTRUCTURE%20----0B1F3F?style=flat-square&textColor=00F0FF" alt="Infra Header" /><br><br>
+      <img src="https://img.shields.io/badge/Docker-0B1F3F?style=flat-square&logo=docker&logoColor=00F0FF" alt="Docker" />
+      <img src="https://img.shields.io/badge/Linux-0B1F3F?style=flat-square&logo=linux&logoColor=00F0FF" alt="Linux" />
+      <img src="https://img.shields.io/badge/Git-0B1F3F?style=flat-square&logo=git&logoColor=00F0FF" alt="Git" />
+    </td>
+  </tr>
+</table>
 
-```crypto
-┌── [PhyRes-UHI] ── Submitted to InGARSS 2026 (Under Review)
-├── Spatiotemporal GNN for urban heat dynamics using PyTorch Geometric
-└── Wind-driven advection pruning algorithm reducing FLOPs by 73.8%
+<br><br>
 
-┌── [JWST-CV-Pipeline] ── Multi-Fidelity Space Signal Reconstruction
-├── Deep space signal pipeline with 2D FFT Gaussian notch filters
-└── Boosted Signal-to-Noise Ratio (SNR) by 39dB under rigid constraints
-
-┌── [GitOps-Pipeline] ── Event-Driven MLOps Container Loop
-├── Secure Ngrok tunnels + GitHub Webhooks automating Docker build lifecycles
-└── Under 45-second container compilation latency per code iteration
-```
+<!-- FOOTER GLOW DECORATION -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=40&color=0B1F3F,001122&strokeWidth=2&section=header&stroke=00F0FF" width="100%" />
+</p>

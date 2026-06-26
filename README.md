@@ -1,84 +1,88 @@
-<!-- HEADER BANNER WITH BLUR GRADIENT & FLANKING X-WINGS -->
+<!-- MAIN BANNER: BLACKHOLE STYLE -->
+<p align="center">
+  <img src="https://ishan-rest.vercel.app/svg/banner/blackhole/AYUSH_GOUDA" alt="Blackhole Main Header" width="100%" />
+</p>
+
+<!-- CENTERED COMM-LINK TERMINAL FLANKED BY X-WINGS -->
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr align="center">
-    <td width="10%" valign="middle">
-      <img src="./assets/image.png" alt="X-Wing Left" width="60" />
+    <td width="25%" align="right">
+      <img src="./assets/image.png" alt="X-Wing Left" width="55" />
     </td>
-    <td width="80%" valign="middle">
-      <!-- Integrated your exact blur gradient setup with a Cyan stroke outline -->
-      <img src="https://capsule-render.vercel.app/api?type=blur&height=130&color=0B1F3F,000c1a&text=AYUSH%20GOUDA&strokeWidth=2&section=footer&reversal=true&fontAlign=50&stroke=00F0FF&fontSize=35&textBg=false&fontColor=00F0FF" width="100%" />
+    <td width="50%">
+      <a href="mailto:ayushgouda.005@gmail.com">CONTACT</a>
+      &nbsp;&nbsp;&bull;&nbsp;&nbsp; 
+      <a href="https://www.linkedin.com/in/ayush-gouda-7a3583292/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BI9Bz%2FYLITQyfFIvmv9CfCw%3D%3D">LINKEDIN PROFILE</a>
     </td>
-    <td width="10%" valign="middle">
-      <img src="./assets/wing_w.png" alt="X-Wing Right" width="60" />
+    <td width="25%" align="left">
+      <img src="./assets/wing_w.png" alt="X-Wing Right" width="55" />
     </td>
   </tr>
 </table>
 
-<br>
 
-<!-- CENTERED COMM-LINK TERMINAL -->
+<p align="center"><font size="4" face="Roboto Mono"><strong>Computer Science Undergraduate at RVITM</strong></font></p>
+
+<p><font size="4" face="Roboto Mono">
+  I specialize in <b>Scientific Machine Learning (SciML)</b> and <b>Physics-Informed Neural Networks (PINNs)</b>, combining deep learning with physical laws to solve complex simulation and signal processing problems.
+</font></p>
+
+<p><font size="4" face="Roboto Mono">
+  Alongside core research, I build automated MLOps pipelines to manage the full training, testing, and deployment lifecycle of machine learning models.
+</font></p>
+
+
+<!-- SECTION 2: TECHNICAL MATRIX (HACKER STYLE) -->
 <p align="center">
-  <a href="mailto:ayushgouda.005@gmail.com">⚡ INITIATE CONTACT</a>
-  &nbsp;&nbsp;&bull;&nbsp;&nbsp; 
-  <a href="https://linkedin.com">LINKEDIN PROFILE</a>
+  <img src="https://ishan-rest.vercel.app/svg/banner/hacker/TECHNICAL-MATRIX" alt="Technical Matrix Header" width="100%" />
 </p>
-
-<br>
-
-<!-- SYSTEM OVERVIEW SECTION (ANIMATED CYLINDER) -->
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0B1F3F&text=%2F%2F%20SYSTEM%20OVERVIEW&fontAlignY=40&fontSize=16&height=50&animation=blinking&fontColor=00F0FF" width="100%" />
-<br><br>
-
-<p><strong>Computer Science Undergraduate @ RVITM</strong></p>
-<p>
-  Specializing in <b>Scientific Machine Learning (SciML)</b>, <b>Physics-Informed Neural Networks (PINNs)</b>, and high-fidelity signal processing. I design physics-constrained computational architectures for multiphysics modeling and inverse problem diagnostics.
-</p>
-<p>
-  Experienced in executing large-scale ML research pipelines and architecting event-driven MLOps infrastructure to automate the build-release lifecycle of deep learning models.
-</p>
-
-<br>
-
-<!-- LANGUAGE TELEMETRY SECTION (ANIMATED CYLINDER) -->
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0B1F3F&text=%2F%2F%20LANGUAGE%20TELEMETRY&fontAlignY=40&fontSize=16&height=50&animation=blinking&fontColor=00F0FF" width="100%" />
-<br><br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AyushG-1210&layout=compact&bg_color=0B1F3F&title_color=00F0FF&text_color=ffffff&icon_color=00F0FF&hide_border=true&langs_count=10" alt="Language Distribution" />
-</p>
-
-<br>
-
-<!-- TECHNICAL MATRIX SECTION (ANIMATED CYLINDER) -->
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0B1F3F&text=%2F%2F%20TECHNICAL%20MATRIX&fontAlignY=40&fontSize=16&height=50&animation=blinking&fontColor=00F0FF" width="100%" />
-<br><br>
 
 <table border="0" cellpadding="10" cellspacing="0" width="100%">
   <tr align="center">
     <td width="33%" valign="top" style="border-right: 1px solid #0B1F3F;">
-      <img src="https://img.shields.io/badge/---%20ANALYTICS%20----0B1F3F?style=flat-square&textColor=00F0FF" alt="Analytics Header" /><br><br>
-      <img src="https://img.shields.io/badge/Python-0B1F3F?style=flat-square&logo=python&logoColor=00F0FF" alt="Python" />
-      <img src="https://img.shields.io/badge/SQL-0B1F3F?style=flat-square&logo=postgresql&logoColor=00F0FF" alt="SQL" />
-      <img src="https://img.shields.io/badge/Bash-0B1F3F?style=flat-square&logo=gnubash&logoColor=00F0FF" alt="Bash" />
+      <h3><code><font color="#00FF00">ANALYTICS</font></code></h3><br>
+      <img src="https://img.shields.io/badge/Python-0B1F3F?style=rounded&logo=python&logoColor=3776AB" alt="Python" height="28" /><br><br>
+      <img src="https://img.shields.io/badge/SQL-0B1F3F?style=rounded&logo=postgresql&logoColor=4169E1" alt="SQL" height="28" /><br><br>
+      <img src="https://img.shields.io/badge/Bash-0B1F3F?style=rounded&logo=gnubash&logoColor=4EAA25" alt="Bash" height="28" />
     </td>
     <td width="33%" valign="top" style="border-right: 1px solid #0B1F3F;">
-      <img src="https://img.shields.io/badge/---%20ML%20%26%20SIMULATION%20----0B1F3F?style=flat-square&textColor=00F0FF" alt="ML Header" /><br><br>
-      <img src="https://img.shields.io/badge/PyTorch-0B1F3F?style=flat-square&logo=pytorch&logoColor=00F0FF" alt="PyTorch" />
-      <img src="https://img.shields.io/badge/NumPy-0B1F3F?style=flat-square&logo=numpy&logoColor=00F0FF" alt="NumPy" />
-      <img src="https://img.shields.io/badge/scikit--learn-0B1F3F?style=flat-square&logo=scikitlearn&logoColor=00F0FF" alt="scikit-learn" />
+      <h3><code><font color="#00FF00">ML & SIMULATION</font></code></h3><br>
+      <img src="https://img.shields.io/badge/PyTorch-0B1F3F?style=rounded&logo=pytorch&logoColor=EE4C2C" alt="PyTorch" height="28" /><br><br>
+      <img src="https://img.shields.io/badge/NumPy-0B1F3F?style=rounded&logo=numpy&logoColor=013243" alt="NumPy" height="28" /><br><br>
+      <img src="https://img.shields.io/badge/Sklearn-0B1F3F?style=rounded&logo=scikitlearn&logoColor=F7931E" alt="scikit-learn" height="28" />
     </td>
     <td width="34%" valign="top">
-      <img src="https://img.shields.io/badge/---%20INFRASTRUCTURE%20----0B1F3F?style=flat-square&textColor=00F0FF" alt="Infra Header" /><br><br>
-      <img src="https://img.shields.io/badge/Docker-0B1F3F?style=flat-square&logo=docker&logoColor=00F0FF" alt="Docker" />
-      <img src="https://img.shields.io/badge/Linux-0B1F3F?style=flat-square&logo=linux&logoColor=00F0FF" alt="Linux" />
-      <img src="https://img.shields.io/badge/Git-0B1F3F?style=flat-square&logo=git&logoColor=00F0FF" alt="Git" />
+      <h3><code><font color="#00FF00">INFRASTRUCTURE</font></code></h3><br>
+      <img src="https://img.shields.io/badge/Docker-0B1F3F?style=rounded&logo=docker&logoColor=2496ED" alt="Docker" height="28" /><br><br>
+      <img src="https://img.shields.io/badge/Linux-0B1F3F?style=rounded&logo=linux&logoColor=FCC624" alt="Linux" height="28" /><br><br>
+      <img src="https://img.shields.io/badge/Git-0B1F3F?style=rounded&logo=git&logoColor=F05032" alt="Git" height="28" />
     </td>
   </tr>
 </table>
 
-<br><br>
-
-<!-- FOOTER GLOW DECORATION -->
+<!-- SECTION 3: SYSTEM TELEMETRY (HACKER STYLE) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=40&color=0B1F3F,001122&strokeWidth=2&section=header&stroke=00F0FF" width="100%" />
+  <img src="https://rest.ishanoshada.com/svg/banner/dev4/Telemetry" alt="System Telemetry Header" width="100%" />
+</p>
+
+<!-- DUAL COLUMN TELEMETRY MATRIX -->
+<table border="0" cellpadding="10" cellspacing="0" width="100%">
+  <tr>
+    <td width="50%" valign="middle" style="border-right: 1px solid #0B1F3F;">
+      <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AyushG-1210&layout=compact&bg_color=0B1F3F&title_color=00F0FF&text_color=ffffff&icon_color=00F0FF&hide_border=true&langs_count=6" alt="Language Distribution" width="100%" />
+      </p>
+    </td>
+    <td width="50%" valign="middle">
+      <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=AyushG-1210&show_icons=true&bg_color=0B1F3F&title_color=00F0FF&text_color=ffffff&icon_color=00F0FF&hide_border=true&count_private=true" alt="GitHub Stats" width="100%" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+
+<!-- DYNAMIC REPOSITORY VIEWS COUNTER -->
+<p align="center">
+  <img src="https://ishan-rest.vercel.app/svg/banner/hologram/--------------------------------------------" alt="Repository Views" />
 </p>

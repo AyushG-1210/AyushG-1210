@@ -4,7 +4,8 @@
 </p>
 
 <!-- CENTERED COMM-LINK TERMINAL FLANKED BY X-WINGS -->
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<!-- Added align="center" to the table tag to force GitHub centering -->
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr align="center">
     <td width="25%" align="right">
       <img src="./assets/image.png" alt="X-Wing Left" width="55" />
@@ -20,7 +21,6 @@
   </tr>
 </table>
 
-
 <p align="center"><font size="4" face="Roboto Mono"><strong>Computer Science Undergraduate at RVITM</strong></font></p>
 
 <p><font size="4" face="Roboto Mono">
@@ -31,13 +31,13 @@
   Alongside core research, I build automated MLOps pipelines to manage the full training, testing, and deployment lifecycle of machine learning models.
 </font></p>
 
-
 <!-- SECTION 2: TECHNICAL MATRIX (HACKER STYLE) -->
 <p align="center">
   <img src="https://ishan-rest.vercel.app/svg/banner/hacker/TECHNICAL-MATRIX" alt="Technical Matrix Header" width="100%" />
 </p>
 
-<table border="0" cellpadding="10" cellspacing="0" width="100%">
+<!-- Added align="center" to center the matrix block -->
+<table align="center" border="0" cellpadding="10" cellspacing="0" width="100%">
   <tr align="center">
     <td width="33%" valign="top" style="border-right: 1px solid #0B1F3F;">
       <h3><code><font color="#00FF00">ANALYTICS</font></code></h3><br>
@@ -62,11 +62,12 @@
 
 <!-- SECTION 3: SYSTEM TELEMETRY (HACKER STYLE) -->
 <p align="center">
-  <img src="https://rest.ishanoshada.com/svg/banner/dev4/Telemetry" alt="System Telemetry Header" width="100%" />
+  <!-- Fixed domain fallback path to ensure proper live rendering -->
+  <img src="https://ishan-rest.vercel.app/svg/banner/dev4/Telemetry" alt="System Telemetry Header" width="100%" />
 </p>
 
-<!-- DUAL COLUMN TELEMETRY MATRIX -->
-<table border="0" cellpadding="10" cellspacing="0" width="100%">
+<!-- Added align="center" to center the telemetry block -->
+<table align="center" border="0" cellpadding="10" cellspacing="0" width="100%">
   <tr>
     <td width="50%" valign="middle" style="border-right: 1px solid #0B1F3F;">
       <p align="center">
@@ -80,7 +81,6 @@
     </td>
   </tr>
 </table>
-
 
 <!-- DYNAMIC REPOSITORY VIEWS COUNTER -->
 <p align="center">
